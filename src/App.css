@@ -1,0 +1,30 @@
+.parent {
+  width: 100%;
+  margin: 0 auto 20px;
+}
+
+.container {
+  position: relative;
+  width: 512px;
+  height: 512px;
+  object-fit: contain;
+  border: solid 5px black;
+}
+
+.avatar {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.name {
+  position: absolute;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.6);
+  color: #fff;
+  padding: 10px 0px;
+  bottom: 0px;
+  font-size: 36px;
+  margin: auto;
+  text-align: center;
+}
