@@ -1,13 +1,14 @@
 {
-  "name": "image-name-generator",
+  "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://laurindo.github.io",
+  "homepage": "https://laurindo.github.io/my-app",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
     "dom-to-image": "^2.6.0",
+    "express": "^4.17.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1"
